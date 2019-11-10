@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\genec\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\genec\\.nuget\\packages"
+    ]
+  }
+}

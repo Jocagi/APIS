@@ -1,0 +1,16 @@
+C:\Users\genec\Documents\APIS\APIS\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\genec\Documents\APIS\APIS\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\genec\Documents\APIS\APIS\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\genec\Documents\APIS\APIS\bin\Debug\netcoreapp2.1\APIS.deps.json
+C:\Users\genec\Documents\APIS\APIS\bin\Debug\netcoreapp2.1\APIS.runtimeconfig.json
+C:\Users\genec\Documents\APIS\APIS\bin\Debug\netcoreapp2.1\APIS.runtimeconfig.dev.json
+C:\Users\genec\Documents\APIS\APIS\bin\Debug\netcoreapp2.1\APIS.dll
+C:\Users\genec\Documents\APIS\APIS\bin\Debug\netcoreapp2.1\APIS.pdb
+C:\Users\genec\Documents\APIS\APIS\obj\Debug\netcoreapp2.1\APIS.csprojAssemblyReference.cache
+C:\Users\genec\Documents\APIS\APIS\obj\Debug\netcoreapp2.1\APIS.RazorAssemblyInfo.cache
+C:\Users\genec\Documents\APIS\APIS\obj\Debug\netcoreapp2.1\APIS.RazorAssemblyInfo.cs
+C:\Users\genec\Documents\APIS\APIS\obj\Debug\netcoreapp2.1\APIS.AssemblyInfoInputs.cache
+C:\Users\genec\Documents\APIS\APIS\obj\Debug\netcoreapp2.1\APIS.AssemblyInfo.cs
+C:\Users\genec\Documents\APIS\APIS\obj\Debug\netcoreapp2.1\APIS.RazorTargetAssemblyInfo.cache
+C:\Users\genec\Documents\APIS\APIS\obj\Debug\netcoreapp2.1\APIS.dll
+C:\Users\genec\Documents\APIS\APIS\obj\Debug\netcoreapp2.1\APIS.pdb
